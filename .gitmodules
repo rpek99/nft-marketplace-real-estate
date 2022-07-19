@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/rpek99/r-estate.git
+[submodule "hardhat"]
+	path = hardhat
+	url = https://github.com/rpek99/marketplace.git
