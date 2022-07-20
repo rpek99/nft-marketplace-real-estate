@@ -1,9 +1,15 @@
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/66913935/179997242-680f9f91-3c2f-4d0f-a30f-471f766cd64d.png" alt="Logo" width="200" height="80">
-</div>
+    <img src="https://user-images.githubusercontent.com/66913935/179997242-680f9f91-3c2f-4d0f-a30f-471f766cd64d.png" alt="Logo" width="220" height="90">
+
+
+<br/>
 
 # NFT Marketplace App For Real Estate Transactions
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/66913935/179996787-34c0cbc9-6c0c-4d04-b780-46f6589f22dc.png" alt="NFT Marketplace" style="zoom:60%;" />
