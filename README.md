@@ -27,6 +27,7 @@ Users can link their metamask wallets thanks to wagmi. In addition, the property
 ## Built With
 
 - Next.js
+- React
 - Javascript
 - Solidity
 - Wagmi
